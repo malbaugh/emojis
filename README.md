@@ -7,6 +7,12 @@ I am building a repository of free emojis.
 ## Plans
 I will be updating this periodically with new emojis, as I have the spare time to create them. 
 
+## Suggestions
+Please feel free to contact me to suggest new emojis or aesthetic tweaks you would like to see.
+
+## Attribution 
+I would appreciate credit for my artwork when you use it, but I don't require any specific attribution. 
+
 ## Bug Reports
 Please create an issue via GitHub.
 
