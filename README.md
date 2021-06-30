@@ -22,3 +22,6 @@ If you would like to make a suggestion for a new emoji or aesthetic alterations,
 ![Image of emoji](https://github.com/malbaugh/emojis/blob/main/0.5x/beaming%20face%20with%20smiling%20eyes%400.5x.png)
 ![Image of emoji](https://github.com/malbaugh/emojis/blob/main/0.5x/dog%20face%400.5x.png)
 ![Image of emoji](https://github.com/malbaugh/emojis/blob/main/0.5x/exhausted%20face%400.5x.png)
+![Image of emoji](https://github.com/malbaugh/emojis/blob/main/0.5x/smiling%20face%20with%20hearts%400.5x.png)
+![Image of emoji](https://github.com/malbaugh/emojis/blob/main/0.5x/winking%20face%400.5x.png)
+![Image of emoji](https://github.com/malbaugh/emojis/blob/main/0.5x/grinning%20face%400.5x.png)
