@@ -18,3 +18,5 @@ Please create an issue via GitHub.
 
 ## Contact
 If you would like to make a suggestion for a new emoji or aesthetic alterations, shoot me a message at https://twitter.com/dane_albaugh.
+
+![Image of emoji](https://github.com/malbaugh/emojis/blob/main/0.5x/beaming%20face%20with%20smiling%20eyes%400.5x.png)
